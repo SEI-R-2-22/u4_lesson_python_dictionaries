@@ -150,12 +150,12 @@ dict_1 = {
 }
 
 dict_2 = {
-    "state": "Canada"
+    "state": "New York"
 }
 
 dict_1.update(dict_2)
 
-print(dict_1) # Returns {'town': 'Riverdale', 'state': 'Canada'}
+print(dict_1) # Returns {'town': 'Riverdale', 'state': 'New York'}
 ```
 
 ___
